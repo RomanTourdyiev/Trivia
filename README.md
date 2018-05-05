@@ -1,0 +1,13 @@
+# Trivia
+Text to speech, voice recognizer, shake to shuffle (accelerometer)
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549699.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549746.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549750.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549753.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549756.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549760.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549763.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549766.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_1525549769.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_2018-05-05-22-50-26-233_co.tink.carstrivia.png?raw=true "title") 
+![Alt text](https://github.com/RomanTourdyiev/Trivia/blob/master/Screenshot_2018-05-05-22-50-15-540_co.tink.carstrivia.png?raw=true "title") 
