@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="corner">8dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="medium_margin">24dp</dimen>
+    <dimen name="large_margin">36dp</dimen>
+</resources>

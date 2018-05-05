@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="speech_not_supported">Не поддерживается голосовой ввод</string>
+    <string name="speech_prompt">Говорите</string>
+    <string name="good">Правильно! Молодец!</string>
+    <string name="not_good">Попробуй еще раз</string>
+    <string name="start">Start</string>
+</resources>
